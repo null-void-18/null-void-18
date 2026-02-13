@@ -23,3 +23,6 @@ scalable, high-performance systems.
 ## 📫 Connect with Me
 - LinkedIn: https://linkedin.com/in/your-profile
 - GitHub: https://github.com/your-username
+
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java)
+
