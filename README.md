@@ -1,13 +1,13 @@
-# Hi, I'm Kiran 👋
+# Hey, Thanks for visiting! I'm Kiran 👋
 
-Backend-focused Software Engineer with a strong interest in building
-scalable, high-performance systems.
+Backend-focused Software Engineer building scalable services with Java and Spring Boot,
+with a strong interest in system design and performance.
 
-## 🚀 About Me
-- 💻 Backend Developer (Java, Spring Boot)
-- 🧠 Strong in Data Structures & System Design
-- 🔁 Interested in distributed systems & scalability
-- 📍 Based in India
+## 👋 About Me
+- Always open to learning and improving through hands-on building
+- Enjoy understanding systems by experimenting and breaking things
+- Curious about design trade-offs and real-world engineering decisions
+- Believe consistent learning compounds over time
 
 
 ### 🛠 Tech Stack
