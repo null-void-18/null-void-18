@@ -32,8 +32,8 @@ with a strong interest in system design and performance. Open to open-source col
   Designed a read-heavy backend service with Redis caching and rate limiting.
 
 ## 📫 Connect with Me
-- 📧 Email: [kiransekhar18@gmail.com](mailto:kiran@kiransekhar18@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/kiran-sekhar-a48075183](https://www.linkedin.com/in/kiran-sekhar-a48075183)
+- [LinkedIn](https://linkedin.com/in/kiran-sekhar-a48075183)
+- [Github](https://github.com/null-void-18)
 
 
 
