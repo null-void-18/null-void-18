@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Kiran 👋
 
-<!--
-**null-void-18/null-void-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-focused Software Engineer with a strong interest in building
+scalable, high-performance systems.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 Backend Developer (Java, Spring Boot)
+- 🧠 Strong in Data Structures & System Design
+- 🔁 Interested in distributed systems & scalability
+- 📍 Based in India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- **Languages:** Java, SQL
+- **Backend:** Spring Boot, REST APIs
+- **Databases:** MySQL, PostgreSQL
+- **Caching:** Redis
+- **Tools:** Git, Maven, Docker (basic)
+
+## 📌 Projects
+- **Scalable URL Shortener**  
+  Designed a read-heavy backend service with Redis caching and rate limiting.
+
+## 📫 Connect with Me
+- LinkedIn: https://linkedin.com/in/your-profile
+- GitHub: https://github.com/your-username
