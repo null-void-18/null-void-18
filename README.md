@@ -32,7 +32,10 @@ scalable, high-performance systems.
 
 
 
-![Packer eating commits](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
+<p align="center">
+  <img src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" alt="pacman commits" />
+</p>
+
 
 
 
