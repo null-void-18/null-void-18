@@ -27,7 +27,7 @@ scalable, high-performance systems.
   Designed a read-heavy backend service with Redis caching and rate limiting.
 
 ## 📫 Connect with Me
-- ![LinkedIn](https://linkedin.com/in/kiran-sekhar-a48075183)
-- ![Github](https://github.com/null-void-18)
+- [LinkedIn](https://linkedin.com/in/kiran-sekhar-a48075183)
+- [Github](https://github.com/null-void-18)
 
 
